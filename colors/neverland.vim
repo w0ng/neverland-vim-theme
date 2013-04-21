@@ -77,7 +77,7 @@ hi Search          guifg=#1c1c1c guibg=#ffd787
 hi SignColumn      guifg=#87ff00 guibg=#262626
 hi SpecialChar     guifg=#d7005f               gui=bold
 hi SpecialComment  guifg=#8a8a8a               gui=bold
-hi Special         guifg=#5fd7ff guibg=#080808
+hi Special         guifg=#5fd7ff
 hi SpecialKey      guifg=#8a8a8a
 
 hi SpellBad        guifg=#ff0000 guibg=#121212 gui=bold
@@ -177,7 +177,7 @@ if &t_Co > 255
    hi SignColumn      ctermfg=118 ctermbg=235
    hi SpecialChar     ctermfg=161               cterm=bold
    hi SpecialComment  ctermfg=245               cterm=bold
-   hi Special         ctermfg=81  ctermbg=232
+   hi Special         ctermfg=81
    hi SpecialKey      ctermfg=245
 
    hi SpellBad        ctermfg=196 ctermbg=233 cterm=bold
